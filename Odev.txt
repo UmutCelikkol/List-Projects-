@@ -1,0 +1,5 @@
+﻿1=> Event Driven Programming üzerine Windows Form'dan 4 örnek istiyorum..
+     a=> Butona basıldıgı zaman  formun arka plan rengi degişecek
+	 b=> Mouse bir button üzerinde hareket ettigi zaman bir label button hareket halinde diye yazı yazılacak
+	 c=> Bir buttona bastıgında baska bir kontrol yol olacak.Ancak ikinci bir buttona bastıgımda tekrar görünür olacak..
+	 d=>Bir Label'e tıkladıgımda üzerindeki yazı silinsin..

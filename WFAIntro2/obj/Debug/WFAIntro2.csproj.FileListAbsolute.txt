@@ -1,0 +1,19 @@
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\bin\Debug\WFAIntro2.exe.config
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\bin\Debug\WFAIntro2.exe
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\bin\Debug\WFAIntro2.pdb
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.Form1.resources
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.Properties.Resources.resources
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.csproj.GenerateResource.cache
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.csproj.CoreCompileInputs.cache
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.exe
+E:\Gruplar\YMS3424\C#Fundementals\08.04.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.pdb
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\bin\Debug\WFAIntro2.exe.config
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\bin\Debug\WFAIntro2.exe
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\bin\Debug\WFAIntro2.pdb
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.Form1.resources
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.exe
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.pdb
+C:\Users\Lenovo\Desktop\.NET Yazılım Kursu\C#\04.08.2019\WFAIntro2\WFAIntro2\obj\Debug\WFAIntro2.csprojAssemblyReference.cache
